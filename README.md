@@ -16,3 +16,6 @@ A curated list of ML Visualization Library in Python
 * Website: https://dive.media.mit.edu/
 * Code (Front-end): https://github.com/MacroConnections/dive-frontend
 * Code (Back-end): https://github.com/MacroConnections/dive-backend
+
+#### Pastalog
+* Code: https://github.com/rewonc/pastalog
