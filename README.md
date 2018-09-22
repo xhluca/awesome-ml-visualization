@@ -19,3 +19,5 @@ A curated list of ML Visualization Library in Python
 
 #### Pastalog
 * Code: https://github.com/rewonc/pastalog
+
+* [Visualize ML](https://github.com/ayush1997/visualize_ML)
