@@ -1,5 +1,5 @@
-# Awesome ML Metrics
-A curated list of ML Metrics Library in Python
+# Awesome ML Visualization Library
+A curated list of ML Visualization Library in Python
 
 #### Scikit-plot
 * Code: https://github.com/reiinakano/scikit-plot
