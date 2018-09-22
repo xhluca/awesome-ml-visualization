@@ -1,4 +1,4 @@
-# Awesome ML Visualization 
+# Awesome ML Visualization [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome ML Visualization frameworks, libraries and software (by language). This list is inspired from [Awesome Machine Learning](https://github.com/xhlulu/awesome-machine-learning), and extends it with more visualization-focused links. 
 
