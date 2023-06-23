@@ -36,6 +36,8 @@ A curated list of awesome ML Visualization frameworks, libraries and software (b
 
 * [tdb](https://github.com/ericjang/tdb) - Interactive, node-by-node debugging and visualization for TensorFlow
 * [Pastalog](https://github.com/rewonc/pastalog) - Simple, realtime visualization of neural network training performance.
+* [Phoenix](https://phoenix.arize.com/) - Open Source ML Observability library designed for the Notebook to visualize complex LLM decision-making.
+
 
 <a name="typescript"></a>
 ## TypeScript
